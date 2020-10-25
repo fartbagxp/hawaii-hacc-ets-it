@@ -1,0 +1,184 @@
+id,name,parent
+c5cf0d40-efaf-477a-8da0-029ac3f39ac3,Accounting & General Services (Dept),
+4245969e-84ab-46d3-af25-19dc2d955327,Accounting & General Services (Dept) / Accounting Division,Accounting & General Services (Dept)
+d6090261-1b00-4105-9c59-7a3c252a5901,Accounting & General Services (Dept) / Administrative Services Office,Accounting & General Services (Dept)
+2933d282-30c9-40c1-be75-80ddc4945c4e,Accounting & General Services (Dept) / Aloha Stadium Authority,Accounting & General Services (Dept)
+ec4f7131-3eb4-4bbb-979f-25446a086e5a,Accounting & General Services (Dept) / Archives Division,Accounting & General Services (Dept)
+f76d8176-9acf-4634-b0b0-b3b9bdcbd3d0,Accounting & General Services (Dept) / Automotive Management Division,Accounting & General Services (Dept)
+2241f17e-372d-4a4b-b8f7-74f86d3aa1a0,Accounting & General Services (Dept) / Campaign Spending Commission,Accounting & General Services (Dept)
+b452ecfa-99a1-4c84-8da2-522c0461fe2e,Accounting & General Services (Dept) / Central Services Division,Accounting & General Services (Dept)
+494945fc-5d86-4a24-8ba7-d23c96762722,Accounting & General Services (Dept) / Office of Information Practices,Accounting & General Services (Dept)
+7e911165-245b-4f29-a418-21af70a376bb,Accounting & General Services (Dept) / Public Works Division,Accounting & General Services (Dept)
+7b70a95b-4614-4a4c-865e-5550eeb47b7d,Accounting & General Services (Dept) / State Procurement Office,Accounting & General Services (Dept)
+ddeca6ca-4167-4326-9dfb-005815a488c7,Agriculture (Dept),
+23e2b6ac-b23a-47e7-b36c-6534a8fd2306,Agriculture (Dept) / Administrative Services Office,Agriculture (Dept)
+0f0957e9-d7a7-48cd-9140-77ea16c80b13,Agriculture (Dept) / Agricultural and Market Development,Agriculture (Dept)
+d6675262-ef00-4d07-9ce8-0f4a11188adc,Agriculture (Dept) / Agricultural Loan,Agriculture (Dept)
+d9ad1631-b276-4880-8aab-5fed1ccb18d5,Agriculture (Dept) / Agricultural Resource Management,Agriculture (Dept)
+fb63466f-7678-4452-80ea-93554cbcc76f,Agriculture (Dept) / Animal Industry,Agriculture (Dept)
+adb3b4da-d666-4b18-9df8-f435142bff47,Agriculture (Dept) / Animal Quarantine and Importation Control,Agriculture (Dept)
+f1f55893-fc18-4450-bdca-151df3fa625f,Agriculture (Dept) / Aquaculture and Livestock Support Services,Agriculture (Dept)
+f0b12754-283b-467b-bf7a-c9374fcd260c,Agriculture (Dept) / Chairperson's Office,Agriculture (Dept)
+0fc38a05-c026-4922-a466-f08864187d5b,Agriculture (Dept) / Department-Wide IT Support Services,Agriculture (Dept)
+89929a8a-d718-47fc-895f-9387b0983c96,Agriculture (Dept) / Financial Assistance - Agricultural Loan,Agriculture (Dept)
+4cef5f2e-56ae-48a1-8506-22313a1b2ab4,Agriculture (Dept) / Plant Industry,Agriculture (Dept)
+d6643622-04e3-46c8-a0e0-675721d4da72,Agriculture (Dept) / Quality Assurance,Agriculture (Dept)
+9eff81c4-a764-4512-a8dc-74b947fba0d4,Attorney General (Dept),
+166970e5-1e70-4db7-a659-6a203a64a368,Attorney General (Dept) / Child Support Enforcement Agency,Attorney General (Dept)
+a8ab2034-80d5-417f-9407-92efe62ec591,Attorney General (Dept) / Civil Recoveries Division,Attorney General (Dept)
+fd3c8619-13a2-4b09-9355-afb467b19972,Attorney General (Dept) / Crime Prevention & Justice Administration Division,Attorney General (Dept)
+2bbe8a08-9bf5-4096-9b6c-89d53f51d95d,Attorney General (Dept) / Hawaii Criminal Justice Data Center,Attorney General (Dept)
+5f4ae941-9c9a-455d-bed8-51d811b099fc,Attorney General (Dept) / Legal Services,Attorney General (Dept)
+4e4dbc94-ac93-4a6e-917f-4ffc647a7d07,Attorney General (Dept) / Tax & Charities Division,Attorney General (Dept)
+7bd2b24f-ac2f-4da4-a4dc-5b9789d68956,Budget & Finance (Dept),
+17db0ede-bd35-4cb4-ac8d-da28efe97a86,Budget & Finance (Dept) / Administrative and Research Office,Budget & Finance (Dept)
+bb6c7563-1ae6-4593-9b55-9978ddd0cec4,"Budget & Finance (Dept) / Budget, Program Planning and Management Division",Budget & Finance (Dept)
+e0e4a3a0-a374-4e6b-b53c-b9c780932ea4,Budget & Finance (Dept) / Employee Retirement System,Budget & Finance (Dept)
+514fc2aa-5a84-4f6a-9d3c-d5605f34b884,Budget & Finance (Dept) / Employer-Union Health Trust Fund,Budget & Finance (Dept)
+17fe9a44-c4e3-46c0-9a44-4ac99b705deb,Budget & Finance (Dept) / Financial Administration Division,Budget & Finance (Dept)
+58bbd4de-a85c-4d1a-83c8-d187e1852295,Budget & Finance (Dept) / Office of Federal Awards Management,Budget & Finance (Dept)
+7720117b-2914-4dd9-b7c5-23186a593390,Budget & Finance (Dept) / Office of the Public Defender,Budget & Finance (Dept)
+0ed8195f-2e72-4198-88be-bbcd915110e2,Budget & Finance (Dept) / Unclaimed Property Program,Budget & Finance (Dept)
+aa1e9e2d-db65-4bcc-8670-5c07a7d212a7,"Business, Economic Dev & Tourism (Dept)",
+48279661-93eb-4de1-960a-431724f2b709,"Business, Economic Dev & Tourism (Dept) / Business Development & Support Division","Business, Economic Dev & Tourism (Dept)"
+d235ee43-e604-44d4-8a94-5a6c6f7ee87f,"Business, Economic Dev & Tourism (Dept) / Creative Industries Division","Business, Economic Dev & Tourism (Dept)"
+728741e0-a910-4198-b364-844c47c2bf04,"Business, Economic Dev & Tourism (Dept) / Foreign Trade Zone Division","Business, Economic Dev & Tourism (Dept)"
+2a62a131-9b9b-431c-b3d9-9fe51dc10a7a,"Business, Economic Dev & Tourism (Dept) / Hawaii Green Infrastructure Authority","Business, Economic Dev & Tourism (Dept)"
+c6543852-8dba-442a-bd72-b6f4315251b9,"Business, Economic Dev & Tourism (Dept) / Hawaii Housing Finance & Development Corporation","Business, Economic Dev & Tourism (Dept)"
+ba67e6f0-9953-470c-855c-cb6d7412df03,"Business, Economic Dev & Tourism (Dept) / Hawaii State Energy Division","Business, Economic Dev & Tourism (Dept)"
+3b31a76a-43ad-46e4-9f1f-39d24514b1a7,"Business, Economic Dev & Tourism (Dept) / Hawaii State Energy Office","Business, Economic Dev & Tourism (Dept)"
+ce496b16-46c0-4b08-bb8d-91b832df2cb0,"Business, Economic Dev & Tourism (Dept) / Hawaii Technology Development Corporation","Business, Economic Dev & Tourism (Dept)"
+07240e42-ec40-4feb-91c1-ddd3027acd45,"Business, Economic Dev & Tourism (Dept) / Hawaii Tourism Authority","Business, Economic Dev & Tourism (Dept)"
+0e708473-8fb1-4d3f-b9cf-ae6fc9b474ab,"Business, Economic Dev & Tourism (Dept) / Land Use Commission","Business, Economic Dev & Tourism (Dept)"
+bd0ba659-fdba-402d-bd7d-476a92128bee,"Business, Economic Dev & Tourism (Dept) / Office of Planning","Business, Economic Dev & Tourism (Dept)"
+3f3a7cbf-f45c-433c-aae1-b871a6d74922,"Business, Economic Dev & Tourism (Dept) / Research and Economic Analysis Division","Business, Economic Dev & Tourism (Dept)"
+87303d7f-60f5-4f78-b25b-37a0363ae5f0,"Business, Economic Dev & Tourism (Dept) / Small Business Regulatory Review Board","Business, Economic Dev & Tourism (Dept)"
+f8b76ee0-5fd4-49bf-94cd-61406062132b,City and County of Honolulu,
+7f3efd17-aed2-4da4-b628-c8cdf548e40e,City and County of Honolulu / Honolulu Police (Dept),City and County of Honolulu
+ef6cca31-ce51-45af-8d88-f6faa911bd19,City and County of Honolulu / WorkHawaii Division,City and County of Honolulu
+adf2ad9b-1057-4e35-a930-75266f368eae,Commerce & Consumer Affairs (Dept),
+68a8b73c-a2a0-4180-aef2-0d86a16c44ac,Commerce & Consumer Affairs (Dept) / Business Registration Division,Commerce & Consumer Affairs (Dept)
+45f2cec0-40dd-4a70-b38f-6b8425b3b6c4,Commerce & Consumer Affairs (Dept) / Cable Television Division,Commerce & Consumer Affairs (Dept)
+04c419a4-e7f3-4f75-abb5-0e4545ea4c36,Commerce & Consumer Affairs (Dept) / Director's Office,Commerce & Consumer Affairs (Dept)
+a1886206-9707-4b0a-b2b5-4eb7301984ae,Commerce & Consumer Affairs (Dept) / Division of Consumer Advocacy (DCA),Commerce & Consumer Affairs (Dept)
+ecc17915-e5d4-4bcb-8bf2-a683d068c353,Commerce & Consumer Affairs (Dept) / Financial Institutions,Commerce & Consumer Affairs (Dept)
+86bde5ca-dca7-4956-9db3-35e5c63d2d51,Commerce & Consumer Affairs (Dept) / Hawaii Post-Secondary Education Authorization Program (HPEAP),Commerce & Consumer Affairs (Dept)
+5bd66930-78a5-4682-86d4-70492b44d16a,Commerce & Consumer Affairs (Dept) / Insurance Division,Commerce & Consumer Affairs (Dept)
+f8168d5d-5950-4fd5-9616-49643fc1f424,Commerce & Consumer Affairs (Dept) / ISCO,Commerce & Consumer Affairs (Dept)
+00bd72e9-9c4d-4301-b6c4-96670cb01d9f,Commerce & Consumer Affairs (Dept) / Office of Administrative Hearings (OAH),Commerce & Consumer Affairs (Dept)
+97ef1024-696f-420f-98cb-9c0a5375343b,Commerce & Consumer Affairs (Dept) / Office of Consumer Protection,Commerce & Consumer Affairs (Dept)
+2a17bec3-83a7-4f00-a82d-1ac5a40a085c,Commerce & Consumer Affairs (Dept) / Professional & Vocational Licensing Division,Commerce & Consumer Affairs (Dept)
+8ddd0f16-4a2e-4358-8f8f-967d8aebcd61,Commerce & Consumer Affairs (Dept) / Public Utilities Commission (PUC),Commerce & Consumer Affairs (Dept)
+b45bb5ad-cb18-4d2b-a247-82dfdeaead6a,Commerce & Consumer Affairs (Dept) / Regulated Industries Complaints Office (RICO),Commerce & Consumer Affairs (Dept)
+941e237b-4283-458d-9495-bf84c282f7a2,County of Hawaii,
+9ea49a13-8995-43cf-82a6-3a0fe36ddc85,County of Hawaii / Hawaii Liquor Control (Dept),County of Hawaii
+eef88af5-81bd-4224-a6db-3b6f11657dac,County of Hawaii / Hawaii Parks and Recreation (Dept),County of Hawaii
+1eb6bc89-4687-41c4-809d-31ac69779a95,County of Hawaii / Hawaii Police (Dept),County of Hawaii
+94c69d9b-08b3-4590-9714-d63a7d458f58,County of Hawaii / Hawaii Public Works (Dept),County of Hawaii
+4bae832d-a7ba-463f-92df-4f20f7d03c70,County of Hawaii / Hawaii Real Property Tax Division (RPT),County of Hawaii
+51cfaaa7-6a0c-4baf-859e-54c016abb1b6,County of Hawaii / Hawaii Vehicle Registration & Licensing (VRL),County of Hawaii
+27266a45-aceb-4f7c-8a74-97e2c430c2aa,County of Kauai,
+1f3a3bf7-e9b6-45ac-badb-2a1bbd21e571,County of Kauai / Kauai Board of Water Supply (Dept),County of Kauai
+3f0a7f8d-aedb-4c37-a191-0d5606b55c37,County of Kauai / Kauai Motor Vehicle Registration (MVR),County of Kauai
+a654964d-1b54-42d8-8bdb-5a548d9625a8,County of Kauai / Kauai Police (Dept),County of Kauai
+9fbc66a2-96e3-48de-8b4e-2a51c9e32709,County of Kauai / Kauai Real Property Assessment,County of Kauai
+436cea10-4bb2-4f92-865d-52c72b9910f7,County of Maui,
+ddc05a1d-87ea-4a11-b45c-22c23e41316e,County of Maui / Maui Motor Vehicle & Licensing (MVL),County of Maui
+ef4c41bd-eb21-4511-8614-dfb3bc5210a0,Defense (Dept),
+a93d893c-c933-45d9-85ca-5e70a21461e3,Defense (Dept) / Administrative Support Office,Defense (Dept)
+902e127a-139b-4279-961f-fec3a4a812db,Defense (Dept) / Chief Information Officer,Defense (Dept)
+13249314-5bd2-4d99-9f31-ac6d61548b0a,Defense (Dept) / Hawaii Air National Guard,Defense (Dept)
+325f13d9-0c82-4928-abcd-540e2efa6340,Defense (Dept) / Hawaii Army National Guard,Defense (Dept)
+236fd9a2-b431-4656-a17c-2a225552d9fd,Defense (Dept) / Hawaii Emergency Management Agency,Defense (Dept)
+764f9106-4015-4a59-8a59-086f36e23c83,Defense (Dept) / Hawaii Youth Challenge Academy,Defense (Dept)
+71f5d7d6-dc7c-4e4a-82cf-e8e3ce115140,Defense (Dept) / Joint Staff,Defense (Dept)
+9cd7d60c-a0ed-4c1c-8dd5-19d0ea7c860c,Defense (Dept) / State Office of Homeland Security,Defense (Dept)
+811d2308-a173-467e-94f2-223c79cb31c1,Defense (Dept) / State Office of Veteran Services,Defense (Dept)
+5162a42a-8a51-47c5-9621-17be16f2b07e,Education (Dept),
+8954a01c-da88-4efc-856e-5197ad562681,Enterprise Technology Services,
+aa2e90a8-c52b-4285-af5f-63b58f551f1c,Enterprise Technology Services / CIO,Enterprise Technology Services
+5989f559-c907-49a3-95ef-b9102fae7f48,Enterprise Technology Services / Client Services Branch,Enterprise Technology Services
+a4a4cc7c-7bf2-4224-8141-ddbac0df616c,Enterprise Technology Services / Enterprise Services Branch,Enterprise Technology Services
+5c3af57f-982a-4afc-83f9-b8638266cd12,Enterprise Technology Services / IT Governance Branch,Enterprise Technology Services
+6189b2cc-cf81-4dd9-b75c-97240f9b31d0,Enterprise Technology Services / Networking Branch,Enterprise Technology Services
+d83839a7-9c4a-4ab3-9d90-a3ca4eaac828,Enterprise Technology Services / Production Services Branch,Enterprise Technology Services
+2f859a1a-9a18-4624-b129-31474f72ddee,Enterprise Technology Services / Security Branch,Enterprise Technology Services
+0af67b76-c0b9-4568-b2c2-e4a3b295df7c,Enterprise Technology Services / Systems Services Branch,Enterprise Technology Services
+0c7228d7-8fae-4d35-b9cb-e9284ebccef9,Enterprise Technology Services / Technology Support Services Branch,Enterprise Technology Services
+d1f39906-5bf3-4916-95a1-2087b315a279,Hawaiian Home Lands (Dept),
+eed04c3b-8ae0-467b-875a-c7d71a3dee6a,Hawaiian Home Lands (Dept) / Administrative Services Office (ASO),Hawaiian Home Lands (Dept)
+626e2824-4c69-4779-9153-a20149c8d2fc,Hawaiian Home Lands (Dept) / Fiscal Office (FO),Hawaiian Home Lands (Dept)
+2c105763-f317-4507-a641-92aac98d8ac0,Hawaiian Home Lands (Dept) / Homestead Services Division,Hawaiian Home Lands (Dept)
+950d5b7d-d6fc-4c98-ac96-494b4f03990d,Hawaiian Home Lands (Dept) / Information and Community Relations Office (ICRO),Hawaiian Home Lands (Dept)
+49ded963-d66b-42a8-9d8a-fb23fabb8c14,Hawaiian Home Lands (Dept) / Land Development Division,Hawaiian Home Lands (Dept)
+74506e2c-baa2-4659-b309-fe366b1b20d9,Hawaiian Home Lands (Dept) / Land Management Division,Hawaiian Home Lands (Dept)
+b8700e34-2a3c-4859-9f97-67061121eafe,Hawaiian Home Lands (Dept) / Office of the Chairman (OCH),Hawaiian Home Lands (Dept)
+05cfc376-9537-4e0d-8138-59377bcbe900,Hawaiian Home Lands (Dept) / Planning Office (PO),Hawaiian Home Lands (Dept)
+c15ede3f-0aba-45ad-98b0-51f68fdbff0c,Health (Dept),
+b1a3aca1-e3c5-422b-be77-8938892edb30,Health (Dept) / Administrative Services Office,Health (Dept)
+e8236f7a-8b0f-4ccc-b04d-047c7625f697,Health (Dept) / Behavioral Health Administration,Health (Dept)
+a436ee39-41cc-4968-baa8-6b3447336230,Health (Dept) / Environmental Health Administration,Health (Dept)
+50c84661-43fa-4e13-adec-30f53413fc23,Health (Dept) / Health Resources Administration,Health (Dept)
+f337ef8c-9f18-474c-8a62-4e48fe5d050e,Human Resources Development (Dept),
+6c0b30aa-4e3d-4cce-814b-ea80fc9c9e71,Human Resources Development (Dept) / Administrative Services Office,Human Resources Development (Dept)
+15e50180-81bb-4dc7-ac50-2ec00beded5d,Human Resources Development (Dept) / Employee Claims Division,Human Resources Development (Dept)
+fedc737b-6159-4433-885f-e76710f31cbf,Human Resources Development (Dept) / Employee Relations Division,Human Resources Development (Dept)
+4e5fdbbb-c914-44e9-b8a4-c1b6c6418b41,Human Resources Development (Dept) / Employee Staffing Division,Human Resources Development (Dept)
+08e7934d-362c-496d-b82d-eaf96a2920a1,Human Resources Development (Dept) / Equal Employment Opportunity Office,Human Resources Development (Dept)
+a2559c40-32fe-43d2-957b-b89ce37377d1,Human Resources Development (Dept) / Information Systems Office,Human Resources Development (Dept)
+96ea32b9-e17c-4332-b3a4-c2e8d26ebda3,Human Resources Development (Dept) / Labor Relations Division,Human Resources Development (Dept)
+07ddd794-77eb-4e6d-9122-f96e4c8aa129,Human Services (Dept),
+39f54216-5b7a-4063-b736-6f953f1f40cc,Human Services (Dept) / Benefits Employment and Support Services Division,Human Services (Dept)
+7616fa30-5e4e-4920-b45f-861ab4896233,Human Services (Dept) / Director's Office,Human Services (Dept)
+82527e90-bb53-4ed9-95e1-81b930ed0178,Human Services (Dept) / Division of Vocational Rehabilitation,Human Services (Dept)
+67726e29-cd76-4d74-9bc1-4ff7738f254c,Human Services (Dept) / Med-QUEST Division,Human Services (Dept)
+0443c61c-2700-46b5-8971-5c734e77d015,Human Services (Dept) / Office of Information Technology,Human Services (Dept)
+055f724a-d976-4b62-9c0d-22ed22a692f6,Human Services (Dept) / Office of Youth Services,Human Services (Dept)
+6d9cc7af-1891-41a9-9932-5c77e572e302,Human Services (Dept) / Social Services Division,Human Services (Dept)
+03e53acd-35dc-474f-8e29-3b28775eb5b6,Labor and Industrial Relations (Dept),
+265328c7-3794-4e5e-8146-1ecea5d2a241,Labor and Industrial Relations (Dept) / Administrative Services Office (ASO),Labor and Industrial Relations (Dept)
+d92fd80e-5acf-4901-9b5c-345c27e46e9f,Labor and Industrial Relations (Dept) / Disability Compensation Division,Labor and Industrial Relations (Dept)
+6ef6dde2-6c8d-435f-b897-1f30d45e8034,Labor and Industrial Relations (Dept) / DLIR IT,Labor and Industrial Relations (Dept)
+e37342cf-f0eb-4a23-84f2-bad748bff517,Labor and Industrial Relations (Dept) / Hawaii Civil Rights Commission Division,Labor and Industrial Relations (Dept)
+ed642bc0-c933-4190-ad6c-23dca6914a00,Labor and Industrial Relations (Dept) / Hawaii Occupational Safety and Health,Labor and Industrial Relations (Dept)
+2f276642-25c0-4231-9eb1-d9ac650eb952,Labor and Industrial Relations (Dept) / Hoisting Machine Operators Advisory Board,Labor and Industrial Relations (Dept)
+17b46f55-a07b-482b-a193-0effda8bc726,Labor and Industrial Relations (Dept) / Office of Community Services,Labor and Industrial Relations (Dept)
+80aca061-d5c4-406d-b665-25cf71ef999f,Labor and Industrial Relations (Dept) / Research and Statistics Office,Labor and Industrial Relations (Dept)
+7ad61dba-6c44-4711-a5f7-a5a5df57257b,Labor and Industrial Relations (Dept) / Unemployment Insurance Division,Labor and Industrial Relations (Dept)
+a8a083a5-69b5-4175-a5ba-19b05691b219,Labor and Industrial Relations (Dept) / Wage Standards Division,Labor and Industrial Relations (Dept)
+144f8c10-79f3-40a0-bbd2-2abed9342324,Labor and Industrial Relations (Dept) / Workforce Development Council,Labor and Industrial Relations (Dept)
+8863b3f0-004c-42a6-b04f-0abb6ed901e0,Labor and Industrial Relations (Dept) / Workforce Development Division,Labor and Industrial Relations (Dept)
+722d9ab2-38f3-4b0f-ae1e-3260b2c1a241,Land & Natural Resources (Dept),
+47097c10-6179-4f65-b8bb-881b32836acd,Land & Natural Resources (Dept) / Aquatic Resources (DAR),Land & Natural Resources (Dept)
+0d751609-cd80-4a77-9211-d58bc6bab36e,Land & Natural Resources (Dept) / Boating and Ocean Recreation (DOBOR),Land & Natural Resources (Dept)
+4950acd5-c00e-4f89-9951-da4035ca9972,Land & Natural Resources (Dept) / Bureau of Conveyances,Land & Natural Resources (Dept)
+03cd35f9-7e1b-41c9-9bc6-ecaf0c5f6919,Land & Natural Resources (Dept) / Conservation and Resources Enforcement (DOCARE),Land & Natural Resources (Dept)
+45ea63a5-174a-4167-afa4-2ec422f7289a,Land & Natural Resources (Dept) / Engineering Division (ENG),Land & Natural Resources (Dept)
+680c8055-9ac6-4119-b916-d44ca96dd15b,Land & Natural Resources (Dept) / Forestry and Wildlife (DOFAW),Land & Natural Resources (Dept)
+2073936d-6d6d-457f-8328-1e464b12d20f,Land & Natural Resources (Dept) / Historic Preservation Division (SHPD),Land & Natural Resources (Dept)
+54499b57-f7d0-4eae-ac9f-2ef1b2f0b62e,Land & Natural Resources (Dept) / Hunter Education Program,Land & Natural Resources (Dept)
+685a1683-328a-47bf-adba-5b0bfd1d8d11,Land & Natural Resources (Dept) / ITSO,Land & Natural Resources (Dept)
+69d8c2e5-1a2d-4f91-8bdd-145aff55f480,Land & Natural Resources (Dept) / Land Division (LAND),Land & Natural Resources (Dept)
+4c41a7a7-183c-4f90-9a0c-fcee4a17ec4b,Land & Natural Resources (Dept) / Office of Conservation and Coastal Lands,Land & Natural Resources (Dept)
+e52f93ac-3a03-4d74-bd52-738307051669,Land & Natural Resources (Dept) / State Parks (SP),Land & Natural Resources (Dept)
+0964839e-5c5c-41c9-98b6-d58dcaa11c93,Office of Hawaiian Affairs,
+59ff86c9-5f52-4fc0-8329-55ce81b8f290,Public Safety (Dept),
+c18dda3a-d185-43e6-896e-bcea029c0fe8,Public Safety (Dept) / Administration Division (PSD),Public Safety (Dept)
+a03d65dc-d088-40b9-bd79-55d6d5849627,Public Safety (Dept) / Corrections Division,Public Safety (Dept)
+04d6dedb-077e-4b37-94e9-4b6f54b5fa0f,Public Safety (Dept) / Hawaii Paroling Authority,Public Safety (Dept)
+1b4f190b-a3a4-4263-9217-390b17134372,Public Safety (Dept) / Law Enforcement Division,Public Safety (Dept)
+61b49d90-75a4-439c-b9e5-eb7422582d13,Public Safety (Dept) / Narcotics Enforcement Division,Public Safety (Dept)
+0e7c1560-f0ef-434c-b68c-a727d4db6e8c,Public Safety (Dept) / Sheriff Division,Public Safety (Dept)
+8cb26d75-22cf-4877-bfc9-916d13cae862,Social Security Administration,
+eed0687a-648b-4197-8815-1d704174422c,Taxation (Dept),
+836af719-e806-4d0d-8c95-6fe020e25c5e,Taxation (Dept) / Administration,Taxation (Dept)
+89258dc5-2000-448f-b791-92dc4b2b4491,Taxation (Dept) / Compliance,Taxation (Dept)
+0a32b622-3950-4037-a7c3-6d3c9f8ec8d2,Taxation (Dept) / Criminal Investigation,Taxation (Dept)
+eb5adb3c-0edc-4389-9eb7-5a9a9de1c55b,Taxation (Dept) / Information Technology Services,Taxation (Dept)
+36a96315-e3a9-488e-9f93-8e5132908eb1,Taxation (Dept) / Tax Services & Processing,Taxation (Dept)
+fdd947e6-b584-4eda-81e6-eb1ecbebe5d7,Transportation (Dept),
+aeb09c7b-c6e1-4455-9423-cd769a6f286b,Transportation (Dept) / Admin Division,Transportation (Dept)
+122f67bc-e8b7-4df9-9c5d-c9529a5e28b3,Transportation (Dept) / Airports Division,Transportation (Dept)
+fba2e3d7-fddc-49fa-9ed6-7e88fe56a919,Transportation (Dept) / Harbors Division,Transportation (Dept)
+0acc18fc-78b2-4cb8-b36a-e44716e3cdb1,Transportation (Dept) / Highways Division,Transportation (Dept)
+90872b1e-975e-482c-97ba-332a5a2f5171,University of Hawaii,
