@@ -1,0 +1,34 @@
+{
+  "name": "hawaii-hacc-ets-it",
+  "version": "1.0.0",
+  "description": "serves as the ETS IT portfolio discovery",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-fartbagxp:fartbagxp/hawaii-hacc-ets-it.git"
+  },
+  "keywords": [
+    "Hawaii",
+    "HACC",
+    "ETS"
+  ],
+  "author": "Boris Ning",
+  "license": "MIT",
+  "dependencies": {
+    "fast-csv": "4.3.2",
+    "lodash.isstring": "^4.0.1",
+    "lodash.keys": "^4.2.0",
+    "lodash.uniq": "^4.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.12.0",
+    "snyk": "^1.420.0"
+  }
+}

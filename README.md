@@ -1,6 +1,6 @@
 # Hawaii Hackathon Notes
 
-The Hawaii Office of Enterprise Technology Services (ETS) would like to create a SOH executive branch IT Portfolio & Roadmap Visualization.
+The [Hawaii Office of Enterprise Technology Services (ETS)](https://ets.hawaii.gov/) would like to create a SOH executive branch IT Portfolio & Roadmap Visualization for the public.
 
 ## History
 
@@ -8,14 +8,16 @@ This project is at least partly aligned with the continuation of the [ETS's Shar
 
 Hawaii State employees has access to an internal portal with more data but the portal is not accessible by the public.
 
-## Acronyms
+## Acronyms and Terms
 
 These are acronyms to learn in terms of Hawaii civil technology.
 
-| Keyword | Meaning                                         |
-| ------- | ----------------------------------------------- |
-| ETS     | Hawaii Office of Enterprise Technology Services |
-| HACC    | Hawaii Annual Code Challenge                    |
+| Keyword      | Meaning                                                               |
+| ------------ | --------------------------------------------------------------------- |
+| ETS          | Hawaii - Office of Enterprise Technology Services                     |
+| HACC         | Hawaii Annual Code Challenge                                          |
+| Applications | Static assets of the Hawaii ETS IT portfolio                          |
+| Projects     | Change initiatives of the Hawaii ETS IT portfolio on the applications |
 
 ## Objective
 
